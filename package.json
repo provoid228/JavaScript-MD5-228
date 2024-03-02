@@ -1,6 +1,6 @@
 {
   "name": "common-md5-generator",
-  "version": "2.23.0",
+  "version": "2.23.1",
   "title": "JavaScript MD5",
   "description": "JavaScript MD5 implementation. Compatible with server-side environments like Node.js, module loaders like RequireJS, Browserify or webpack and all web browsers.",
   "keywords": [
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/provoid228/common-md5-generator"
+    "url": "https://github.com/provoid228/common-md5-generator"
   },
   "license": "MIT",
   "devDependencies": {
